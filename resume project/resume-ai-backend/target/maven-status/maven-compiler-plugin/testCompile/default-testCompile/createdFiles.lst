@@ -1,0 +1,4 @@
+com\resume\backend\service\ResumeServiceImplTest.class
+com\resume\backend\controller\ResumeControllerTest.class
+com\resume\backend\util\InputSanitizerTest.class
+com\resume\backend\ResumeAiBackendApplicationTests.class
